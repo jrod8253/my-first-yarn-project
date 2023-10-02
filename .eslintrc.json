@@ -9,5 +9,8 @@
         "sourceType": "module"
     },
     "rules": {
+      "no-console": "off",
+      "comma-dangle": "off",
+      "quotes": "off"
     }
 }
