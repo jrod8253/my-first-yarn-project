@@ -1,0 +1,7 @@
+{
+  "name": "my-first-yarn-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "jrod8253",
+  "license": "UNLICENSED"
+}
